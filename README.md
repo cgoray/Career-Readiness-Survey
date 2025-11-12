@@ -2,6 +2,9 @@
 
 Analysis of Four Factors Predicting Quality Employment Outcomes
 
+1,244 college students surveyed through Braven's career readiness course. Student reported on 4 areas: Skills, Confidence, Experience, and Networks.
+
+
 **Executive Summary**
 
 All four career-readiness factors show statistically significant but modest relationships with quality role attainment. The correlations are weak and clustered (ranging from 0.109 to 0.158), suggesting no single factor dominates. When examined independently, Confidence and Skills show virtually identical correlations (0.158 and 0.157). However, in a combined model controlling for all factors simultaneously, Skills emerges as the strongest independent predictor (β = 0.299), followed closely by Confidence (β = 0.267) and Experience (β = 0.226). Notably, Networks shows a negative coefficient in the combined model despite positive bivariate correlation, suggesting it may work through other factors rather than having direct independent effects. Overall, these findings suggest career readiness is multifaceted, and no single factor provides a 'silver bullet,' and success appears to require developing all four dimensions together.
