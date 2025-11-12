@@ -4,6 +4,8 @@ Analysis of Four Factors Predicting Quality Employment Outcomes
 
 1,244 college students surveyed through Braven's career readiness course. Student reported on 4 areas: Skills, Confidence, Experience, and Networks.
 
+Braven is a career-accelerating experience that prepares promising young people from all over the nation to secure a strong first opportunity after college.
+https://braven.org/
 
 **Executive Summary**
 
